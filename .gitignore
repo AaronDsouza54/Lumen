@@ -1,3 +1,14 @@
-.idea/
+# Build directories
 build/
 cmake-build-debug/
+
+# CLion / IntelliJ
+.idea/
+
+# Generated binaries
+Lumen
+*.o
+*.out
+
+# Misc
+.DS_Store

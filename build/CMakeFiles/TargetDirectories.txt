@@ -1,3 +1,0 @@
-/home/aarondsouza/Documents/Projects/Lumen/build/CMakeFiles/Lumen.dir
-/home/aarondsouza/Documents/Projects/Lumen/build/CMakeFiles/edit_cache.dir
-/home/aarondsouza/Documents/Projects/Lumen/build/CMakeFiles/rebuild_cache.dir
