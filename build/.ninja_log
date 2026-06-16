@@ -1,0 +1,12 @@
+# ninja log v7
+1	74	1772594900751710662	CMakeFiles/Lumen.dir/memory.c.o	c4eb35311aea2571
+1	79	1772594900750588109	CMakeFiles/Lumen.dir/main.c.o	3b0d7ed61ac5c68a
+1	79	1772594900751563167	CMakeFiles/Lumen.dir/chunk.c.o	8907efc87758447e
+1	79	1772594900751840354	CMakeFiles/Lumen.dir/debug.c.o	12c2d22a6cf7b5ce
+1	81	1772594900751982988	CMakeFiles/Lumen.dir/value.c.o	2ab604c423ae45c5
+8	87	1772594900757588125	CMakeFiles/Lumen.dir/object.c.o	fdd814174f5ab686
+10	87	1772594900759588129	CMakeFiles/Lumen.dir/table.c.o	4e34c4d88f075c35
+7	92	1772594900756588122	CMakeFiles/Lumen.dir/scanner.c.o	535a3b4333364357
+2	109	1772594900752242981	CMakeFiles/Lumen.dir/compiler.c.o	6bc5086ce44caaf2
+1	113	1772594900752104051	CMakeFiles/Lumen.dir/vm.c.o	61ab806fed99077c
+113	132	1772594900863201284	Lumen	9ec867051f99447

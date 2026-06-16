@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Lumen.dir/main.c.o CMakeFiles/Lumen.dir/chunk.c.o CMakeFiles/Lumen.dir/memory.c.o CMakeFiles/Lumen.dir/debug.c.o CMakeFiles/Lumen.dir/value.c.o CMakeFiles/Lumen.dir/vm.c.o CMakeFiles/Lumen.dir/compiler.c.o CMakeFiles/Lumen.dir/scanner.c.o CMakeFiles/Lumen.dir/object.c.o CMakeFiles/Lumen.dir/table.c.o CMakeFiles/Lumen.dir/native.c.o -o Lumen 
